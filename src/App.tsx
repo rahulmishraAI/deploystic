@@ -3,7 +3,7 @@ import { Facebook, Instagram, Linkedin, Twitter } from 'lucide-react';
 
 function App() {
   const [text, setText] = useState('');
-  const fullText = 'Coming Soon';
+  const fullText = 'Deploystic';
 
   useEffect(() => {
     const animateText = () => {
@@ -70,10 +70,13 @@ function App() {
           </div>
           <div className="space-y-4">
             <p className="text-xl sm:text-2xl md:text-3xl text-cyan-100 font-light max-w-3xl mx-auto leading-relaxed">
-              Transforming the future of technology
+            Where Algorithms Meet ambition
             </p>
             <p className="text-base sm:text-xl text-cyan-200/80 max-w-2xl mx-auto px-4">
-            We're crafting something amazing for you. Stay tuned!
+             We Are Coming Soon...
+            </p>
+            <p className="text-base sm:text-xl text-cyan-200/80 max-w-2xl mx-auto px-4">
+            April 5, 2025
             </p>
           </div>
         </div>
@@ -82,7 +85,7 @@ function App() {
       {/* Footer */}
       <footer className="p-4 sm:p-6 flex flex-col sm:flex-row justify-between items-center text-cyan-200/80 relative gap-4 sm:gap-0">
         <div className="text-sm sm:text-base text-center sm:text-left">
-          © {new Date().getFullYear()} deploystic. All rights reserved.
+          © {new Date().getFullYear()} deploystic. All rights reserved. @Rahul Mishra
         </div>
         <div className="flex gap-4 sm:gap-6">
           <a 
