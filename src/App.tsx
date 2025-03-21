@@ -70,13 +70,13 @@ function App() {
           </div>
           <div className="space-y-4">
             <p className="text-xl sm:text-2xl md:text-3xl text-cyan-100 font-light max-w-3xl mx-auto leading-relaxed">
-            Where Algorithms Meet ambition
+            Where Algorithms Meet Ambition
             </p>
             <p className="text-base sm:text-xl text-cyan-200/80 max-w-2xl mx-auto px-4">
              We Are Coming Soon...
             </p>
             <p className="text-base sm:text-xl text-cyan-200/80 max-w-2xl mx-auto px-4">
-            April 5, 2025
+            April 6, 2025
             </p>
           </div>
         </div>
